@@ -16,3 +16,17 @@
 
 <br/>
 <br/>
+
+## Technologies :fire:
+- Data Science.
+- Python.
+- Competitive Programming.
+- Machine Learning
+- Deep Learning
+
+**Languages and Tools:**  
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=afsalkm14&theme=radical&hide=glsl,python" />
+<img src="https://github-readme-stats.vercel.app/api?username=afsalkm14&&show_icons=true&theme=radical&line_height=27&v=5" alt="afsalkm's GitHub Stats" />
+
+
