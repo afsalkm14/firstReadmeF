@@ -52,3 +52,6 @@ Trying to study the coding now
 -  **Ask me about :** Python and linux :v:
 -  **Fun fact :** I dont linke coffee:sweat_smile: and tea 
 -  **Pronouns :** He/Him/His :innocent:
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
